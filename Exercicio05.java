@@ -1,3 +1,6 @@
+ // Nome: Davi Fernandes Alves
+// Matrícula: 1261946667
+
 public class App {
     public static void main(String[] args) {
         int[] numeros = {10, 7, 3};
