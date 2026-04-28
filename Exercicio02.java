@@ -1,3 +1,5 @@
+ // Nome: Davi Fernandes Alves
+// Matrícula: 1261946667
 public class App {
      
      public static int somarArray(int[] numeros) {
